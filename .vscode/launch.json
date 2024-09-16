@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CO2Compensation",
+            "request": "launch",
+            "mainClass": "Projekte.JavaLernen.CO2Compensation.CO2Compensation",
+            "projectName": "JavaProjects_5c115e4d"
+        },
+        {
+            "type": "java",
+            "name": "RabattSkonto",
+            "request": "launch",
+            "mainClass": "Projekte.JavaLernen.RabattSkonto.RabattSkonto",
+            "projectName": "JavaProjects_5c115e4d"
+        },
+        {
+            "type": "java",
+            "name": "Umrechnung",
+            "request": "launch",
+            "mainClass": "Projekte.JavaLernen.Umrechnung.Umrechnung",
+            "projectName": "JavaProjects_5c115e4d"
+        },
+        {
+            "type": "java",
+            "name": "Normalgewicht",
+            "request": "launch",
+            "mainClass": "Projekte.JavaLernen.Normalgewicht.Normalgewicht",
+            "projectName": "JavaProjects_5c115e4d"
+        },
+        {
+            "type": "java",
+            "name": "INDEkremation",
+            "request": "launch",
+            "mainClass": "Projekte.JavaLernen.INDEkremation.INDEkremation",
+            "projectName": "JavaProjects_5c115e4d"
+        },
+        {
+            "type": "java",
+            "name": "Zinsen",
+            "request": "launch",
+            "mainClass": "Projekte.Zinsen.Zinsen",
+            "projectName": "JavaProjects_5c115e4d"
+        },
+        {
+            "type": "java",
             "name": "Rechner",
             "request": "launch",
             "mainClass": "Projekte.Rechner.Rechner",
