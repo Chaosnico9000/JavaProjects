@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Provision",
+            "request": "launch",
+            "mainClass": "Projekte.JavaLernen.Auswahlanweisungen.Provision.Provision",
+            "projectName": "JavaProjects_5c115e4d"
+        },
+        {
+            "type": "java",
+            "name": "KinderJavaLand",
+            "request": "launch",
+            "mainClass": "Projekte.JavaLernen.Auswahlanweisungen.KinderJavaLand.KinderJavaLand",
+            "projectName": "JavaProjects_5c115e4d"
+        },
+        {
+            "type": "java",
+            "name": "KindJavaLand",
+            "request": "launch",
+            "mainClass": "Projekte.JavaLernen.Auswahlanweisungen.KindJavaLand.KindJavaLand",
+            "projectName": "JavaProjects_5c115e4d"
+        },
+        {
+            "type": "java",
+            "name": "WiederstandRechner",
+            "request": "launch",
+            "mainClass": "Projekte.JavaLernen.Auswahlanweisungen.WiederstandRechner.WiederstandRechner",
+            "projectName": "JavaProjects_5c115e4d"
+        },
+        {
+            "type": "java",
+            "name": "ElektroFirma",
+            "request": "launch",
+            "mainClass": "Projekte.JavaLernen.Auswahlanweisungen.ElektroFirma.ElektroFirma",
+            "projectName": "JavaProjects_5c115e4d"
+        },
+        {
+            "type": "java",
+            "name": "Verbrauch",
+            "request": "launch",
+            "mainClass": "Projekte.JavaLernen.Auswahlanweisungen.Verbauch.Verbrauch",
+            "projectName": "JavaProjects_5c115e4d"
+        },
+        {
+            "type": "java",
+            "name": "WarningV4",
+            "request": "launch",
+            "mainClass": "Projekte.JavaLernen.Auswahlanweisungen.Warning.WarningV4",
+            "projectName": "JavaProjects_5c115e4d"
+        },
+        {
+            "type": "java",
+            "name": "Dreiecksberechnung",
+            "request": "launch",
+            "mainClass": "Projekte.JavaLernen.Auswahlanweisungen.Dreiecksberechnung.Dreiecksberechnung",
+            "projectName": "JavaProjects_5c115e4d"
+        },
+        {
+            "type": "java",
+            "name": "Bestellwert",
+            "request": "launch",
+            "mainClass": "Projekte.JavaLernen.Auswahlanweisungen.Bestellwert.Bestellwert",
+            "projectName": "JavaProjects_5c115e4d"
+        },
+        {
+            "type": "java",
+            "name": "Warning",
+            "request": "launch",
+            "mainClass": "Projekte.JavaLernen.Kapitel2.Warning.Warning",
+            "projectName": "JavaProjects_5c115e4d"
+        },
+        {
+            "type": "java",
+            "name": "viewmodel",
+            "request": "launch",
+            "mainClass": "Projekte.Testumgebung.viewmodel",
+            "projectName": "JavaProjects_5c115e4d"
+        },
+        {
+            "type": "java",
             "name": "CO2Compensation",
             "request": "launch",
             "mainClass": "Projekte.JavaLernen.CO2Compensation.CO2Compensation",
