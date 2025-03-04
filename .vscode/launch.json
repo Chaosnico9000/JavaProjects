@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Zahlenreihe",
+            "request": "launch",
+            "mainClass": "Projekte.JavaLernen.Schleifen.ZahlenreiheUndKamm.Zahlenreihe",
+            "projectName": "JavaProjects_5c115e4d"
+        },
+        {
+            "type": "java",
+            "name": "UngeradeZahlen",
+            "request": "launch",
+            "mainClass": "Projekte.JavaLernen.Schleifen.UngeradeZahlen.UngeradeZahlen",
+            "projectName": "JavaProjects_5c115e4d"
+        },
+        {
+            "type": "java",
+            "name": "Kubikzahlen",
+            "request": "launch",
+            "mainClass": "Projekte.JavaLernen.Schleifen.ZehnerzahlUndKubikzahlen.Kubikzahlen",
+            "projectName": "JavaProjects_5c115e4d"
+        },
+        {
+            "type": "java",
+            "name": "Zehnerzahl",
+            "request": "launch",
+            "mainClass": "Projekte.JavaLernen.Schleifen.Zehnerzahl.Zehnerzahl",
+            "projectName": "JavaProjects_5c115e4d"
+        },
+        {
+            "type": "java",
             "name": "Provision",
             "request": "launch",
             "mainClass": "Projekte.JavaLernen.Auswahlanweisungen.Provision.Provision",

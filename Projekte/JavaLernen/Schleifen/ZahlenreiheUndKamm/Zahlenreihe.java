@@ -1,17 +1,13 @@
+package Projekte.JavaLernen.Schleifen.ZahlenreiheUndKamm;
 import java.util.Scanner;
 
-public class Prebuild {
+public class Zahlenreihe {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        System.out.println("Willkommen bei");
-
-        // Anwendereingaben
-
-        // Anwendereingaben
-
-        // Validierung der Daten
+        System.out.println("Willkommen bei Zahlenreihen generator");
 
         // Rechnung
+        //Noch nicht fertig
 
         // Anwenderausgaben
         System.out.println("");
