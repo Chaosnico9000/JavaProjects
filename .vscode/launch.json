@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Kalender",
+            "request": "launch",
+            "mainClass": "Projekte.JavaLernen.Schleifen.Kalender.Kalender",
+            "projectName": "JavaProjects_5c115e4d"
+        },
+        {
+            "type": "java",
+            "name": "Matrix",
+            "request": "launch",
+            "mainClass": "Projekte.JavaLernen.Schleifen.SternquardratUndMatrix.Matrix",
+            "projectName": "JavaProjects_5c115e4d"
+        },
+        {
+            "type": "java",
+            "name": "Sternquadrat",
+            "request": "launch",
+            "mainClass": "Projekte.JavaLernen.Schleifen.SternquardratUndMatrix.Sternquadrat",
+            "projectName": "JavaProjects_5c115e4d"
+        },
+        {
+            "type": "java",
+            "name": "Kamm",
+            "request": "launch",
+            "mainClass": "Projekte.JavaLernen.Schleifen.ZahlenreiheUndKamm.Kamm",
+            "projectName": "JavaProjects_5c115e4d"
+        },
+        {
+            "type": "java",
             "name": "Zahlenreihe",
             "request": "launch",
             "mainClass": "Projekte.JavaLernen.Schleifen.ZahlenreiheUndKamm.Zahlenreihe",
